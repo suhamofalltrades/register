@@ -10,8 +10,7 @@
 
     "record": {
         "CNAME": "example.com",
-        ]
     },
 
-    "proxied": true
+    "proxied": false
 }
