@@ -1,0 +1,17 @@
+{
+    "description": "I will use this for making some simple projects and sites with github pages.",
+    "domain": "is-not-a.dev",
+    "subdomain": "suhamofalltrades",
+
+    "owner": {
+        "repo": "https://github.com/suhamofalltrades/register",
+        "email": "suhamofalltrades@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "example.com",
+        ]
+    },
+
+    "proxied": true
+}
